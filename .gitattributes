@@ -1,0 +1,599 @@
+# Larger engineering assets tracked with Git LFS to keep Git pushes small.
+"方案资料/TC264/综合资料包/tc264.zip" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/hardware/TC264主板资料/【文档】使用说明等文档资料.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/hardware/电磁硬件资料/V2.2版本资料/【原理图】主板原理图.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/hardware/电磁硬件资料/V2.2版本资料/【原理图】主板原理图/STC8H&16F&32G_主板_原理图_V2.2.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/hardware/电磁硬件资料/V2.2版本资料/主板丝印图、尺寸图.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/TC264_MotherBoard_V2.5 丝印图 正面.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/TC264_MotherBoard_V2.5 位号图 正面.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/TC264_MotherBoard_V2.5 尺寸图.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/旧版原理图/【V1.0原理图】主板原理图、丝印图、位号图/TC264主板V1.0丝印图.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/旧版原理图/【V1.0原理图】主板原理图、丝印图、位号图/TC264主板V1.0位号图.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/旧版原理图/【V1.0原理图】主板原理图、丝印图、位号图/TC264主板V1.0尺寸图.EMF" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/旧版原理图/【V2.1原理图】主板原理图、丝印图、位号图/TC264主板V2.1位号图.emf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/原理图资料/projects/无线充电/tc264主板/【原理图】主板原理图、丝印图、位号图/旧版原理图/【V2.3原理图】主板原理图、丝印图、位号图/TC264主板V2.3位号图.emf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/14届厦门理工学院信标组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/14届智能车技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/20190819河南理工大学HPU三轮一队技术报告 .docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/2019中国地质大学（武汉）信标组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/2019常熟理工学院光电四轮闪电一队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/ABC队-技术报告 .pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/HQU.游隼技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/Ms技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/The Godfather技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/一般般队 汽车技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/一骑绝尘_技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/三江学院踏浪鸭队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/三轮组-中南民大平行智能研习社队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/上海海事大学 GaN 技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/上海海事大学 RetardedGardener 技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东北林业大学技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东南大学-SEU_Seeker-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东南大学SEU_Twocar技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东南大学双车SEU_Tricycle技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东南大学第十四届无线节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东林逐风国赛技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东秦室内对弈组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/东秦室外光电组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中南大学比亚迪辰龙队2019-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中南民族大学-光电四轮-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中原工学院节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中国计量大学-仰仪17队-节能组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中国计量大学-仰仪1队-对弈组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中国计量大学-仰仪24队-信标组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/中工电信七队四轮组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/信标-隐翼队-车模制作技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/信标组 集美大学诚毅学院 星旺队 技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/全国大学生智能汽车竞赛技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/全国大学生智能车竞赛技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/兰州交通大学四轮组神舟队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/刘怀钰、娄钰杰、臧恒室外越野组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/刺杀小队（信标）--技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/北京科技大学-三轮组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/北华大学-北华翔龙-创意组技术报告%20 (1).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/北华大学-北华领航者-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/北华航天工业学院室外电磁组华航齐德隆技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届技术报告-三轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届技术报告-双车组-直立.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届技术报告-四轮组.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届技术报告论文   西藏农牧学院.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届智能车双车汇车组车模技术报告(1).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届智能车四轮组技术报告(2).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/十四届盐城工学院领航队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华东赛区 上海电机学院四轮组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华东赛区南京师范大学三轮组先驱者队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华东赛区南京师范大学双车会车组天行者队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华东赛区南京师范大学节能组ARES队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华中科技大学双车会车组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华中科技大学室内对弈组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华中科技大学室外光电组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华中科技大学室外越野组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华中科技大学无线节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华侨大学_双车对象_技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华侨大学信标组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华北电力大学（保定）信标组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华北电力大学（保定）节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华北赛区-河南理工大学-形而上学队-技术报告-18339195530.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华南师范大学深蓝色工程师创意七队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/华理轻工%20三轮组%20菜鸟一片%20技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/南强至远-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/南昌航空大学户外煎鸡蛋队技术报告%20.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/南阳师范学院技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/厦门理工学院 暗涌 亦北技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/双车技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/双车组-集美大学诚毅学院-星夜兼程队 技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/双车组_中国矿业大学_蜂鸟队_技术报告 .docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/合肥工业大学Sunny Day Pig技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/合肥工业大学_信标组_久阳队技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/合肥工业大学_室外电磁组_暴力哪吒队_技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/合肥工业大学——小白四轮技术报告_.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/同济大学节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/哈尔滨工程大学-极品飞车2队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/哈尔滨工程大学-极品飞车6队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/哈尔滨工程大学室外光电技术报告极品飞车0队.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/哈尔滨工程大学极品飞车3队双车会车技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/嘉兴学院创意组技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/嘉兴学院创意组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/大灰狼爱吃小白菜技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/天生就会卡尔曼技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/太原理工大学三轮队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/太原理工大学信标队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/太原理工大学双车会车队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/太原理工大学无线节能队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/威震天队技术报告 (1).doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/宁夏理工学院技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽师范大学破风者技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽理工大学——无线节能组技术报告——安理节能一队.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽赛区+安徽新华学院+室外电磁组+尘埃拉力技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽赛区+安徽新华学院+跟着夸父跑的螃蟹技术报告2019.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽赛区+安徽新华学院+跟着夸父跑的螃蟹技术报告车模技术检查表2019.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽赛区-技术报告-合肥工业大学宣城校区-四轮组-来啦，老弟！.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/安徽赛区-技术报告-合肥工业大学宣城校区-室外光电创意组-魁拔.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/室外光电创意组技术报告 .docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/室外光电技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/小白四轮-唐山师范沙尘暴队技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/小白四轮车模技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/尖峰独角兽技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/山东农业大学%20%20室外光电%20随意操作%20技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/山东赛区-山东大学（威海）-山威创意二队-第二次技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/山东赛区-齐鲁工业大学-多米诺队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广东海洋大学-越野组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广州大学华软软件学院 -华软电子一队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广州达大学华软软件学院-双车会车组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广工%20技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广师二队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广西科技大学三轮组技术报告(1).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/广西科技大学双车组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/微草三队（越野）--技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/恩智浦第十四届骑猪看世界队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/惠州学院创意组阆苑五仁技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/成都工业学院__技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/成都理工大学工程技术学院 成理工程二队技术报告 变形金刚组三轮组.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/成都理工大学工程技术学院 成理工程四队  室外越野电磁组 技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/成都理工大学工程技术学院乐理九队技术报告-信标组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告 - 四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告 .doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告 .docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告 双车.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告 带扫描.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告%20-淮南联大-室外光电组.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告%20.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-三轮组-联大一队.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-双车组-青岛科技大学-青科大双车.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-四轮组-同舟.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-江汉大学-信标组-缘怀-宏光.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-江汉大学-室外光电组-缘怀-超越.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-江汉大学-室外电磁组-缘怀-流浪小车.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-江汉大学-小白四轮组-缘怀-大吉大利.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-浙江大学.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-第九皇后.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-西部赛区-重庆邮电大学-变形金刚三轮组-跃动冲锋.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告-选择题全队.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告7.0.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告_黑帝姿.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告——三轮井黄马.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告——山东大学（威海）蒲公英.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告室外光电.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告，西部赛区，四轮组，重庆邮电大学移通学院，Jade boat.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/技术报告，西部赛区，四轮组，重庆邮电大学移通学院，Jade boat.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/攀枝花学院节能组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/新余学院-野狼队-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/新余学院-野狼队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-启明星第十四届技术报告  - 副本.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-哈雷星—技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-天璇星—技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-天衡星—技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-汇耀星—技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/晋速-红巨星—技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/智能车技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/李志伟、陈志远、邓乐乐巢大佩奇队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/极光技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/桂林电子科技大学不熬夜只通宵队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/武汉理工大学信标技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/武汉理工大学创意组996.icu技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/武汉科技大学-信标组-第十四届智能汽车竞赛技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/民小生技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/江苏大学信标组你说的都队队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/江苏大学创意组室内对弈大鱼队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/池州学院 三轮组 达拉崩吧队 技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/河南大学信标一队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/河南理工大学HPU双车会车组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/河南科技大学-变形金刚三轮组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/河南科技大学-室外电磁组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/河海大学逸风队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江工业大学-浙工大室外光电队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江工业大学-浙工大银江BOOM4队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江工业大学-浙工大银江VEGA队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江赛区-三轮组 杭州电子科技大学 杭电三轮二队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江赛区-双车组 杭州电子科技大学 杭电双车二队技术报告(201908).pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙江赛区-四轮组 杭州电子科技大学 杭电竞速一队技术报告(2019.8.6).pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/浙科三轮一队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/淮南师范学院青欢技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/湖北工程学院妙脆角技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/湖北汽车工业学院技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/湖北理工学院技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/湖南大学惟楚有才技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/湖州师范学院闪电队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/燕山大学燕山队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/燕山大学燕翔队技术报告(1).doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/燕山大学里仁学院-节能组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/燕山大学里仁学院室外光电组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/物伊技术报告(6)(1)(1).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/电子科技大学-飞毛腿节能组-成电青山-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/皖西学院节能组技术报告 .pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/直立三轮三队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/睿龙三队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/睿龙四队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/石家庄学院双车组旅行者技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/石家庄学院鹿鼎技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/神山队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第14届北京科技大学-双车会车组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第14届北京科技大学-无线节能组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届“恩智浦”杯全国大学生智能汽车竞赛_信标组技术报告_%E5%8.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届“恩智浦”杯全国大学生智能汽车竞赛技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届东华大学—双车会车组—技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届全国大学生智能车比赛技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届室外电磁组偕行追月（队）技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届山东大学双车组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届总决赛的队伍提交技术报告通知.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届恩智浦杯智能车竞赛青岛理工大学小白四轮一队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届技术报告e车模.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届技术报告（追梦一队f车模）.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届西华大学-变形金刚三轮-法斯特3队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届重庆邮电大学移通学院无限节能组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/第十四届飞思卡尔技术报告.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/节能技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/节能组 集美大学诚毅学院 星炎队 技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西北工业大学室内创意翱翔队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南交通大学-四驱兄弟队-室外越野组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南交通大学-球球飞切队-信标对抗组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南交通大学-绝云图南-断桥会车组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南交通大学-西部修车队-飞毛腿节能组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南交通大学-齐天大圣队-室内对弈组-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南石油大学-铁人一二三-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西南科技大学 室外越野组 西科八队技术报告 - 副本.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西安科技大学信标组秦风1队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/西部赛区-电子科技大学-成电查踪技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/贵州大学双车组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/越野技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/车模制作技术报告-蚌埠学院.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/车模制作技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/车模制作技术报告Firefly 2019二队.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/车模技术报告 山东师范大学 室外电磁组（越野组）百亿豪富队.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/辽宁工程技术大学%20Firefly2019一队--技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/辽宁工程技术大学-四轮组-光翼二队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/追风九队2019竞赛技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/追风五队2019竞赛技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/追风零队2019竞赛技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/逐梦三队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/重大十四届信标组（乐在其中队）技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/重庆邮电大学--小白四轮组--技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/重庆邮电大学-室内创意-技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/铁人哈哈队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/铁人啦啦队-技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/阆苑一队技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/阜阳师范大学双车会车组技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/陕西理工大学三轮队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/陕西理工大学三轮队技术报告车模照片及电路.doc" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/陕西理工大学信标组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/陕西理工大学双车组技术报告.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/集美大学 信标组 集大纤云队 14届技术报告 .pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/集美大学_双车组_集大启明队_技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/青岛理工大学室内创意一队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/青岛理工大学室外越野队技术报告(1).docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/青岛理工大学节能一队技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/黑龙江工业学院（电磁）-风驰电掣技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/十四届技术报告/report/齐鲁工业大学无线复读技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告.zip" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/中南民族大学_北纬30点49_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/北京科技大学_北京科技大学四轮组_基础四轮....docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/华东理工大学_XSpeeder_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/华南理工大学_华工紫云队_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/南京师范大学-赛腾四队-基础四轮.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/南昌大学_孤胆咸鱼_四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/南通大学_e芯车车人_基础四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/哈尔滨工业大学_紫丁香一队_传统四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/哈尔滨工程大学_济海追风5队_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/太原工业学院_晋速赤兔星_基础四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/太原理工大学_太原理工大学四轮组_四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/山东大学（威海）_LekimaStorm_四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/惠州学院_东江小白龙_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/杭州电子科技大学_杭电竞速一队_四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/武汉科技大学_首安一队_四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/江汉大学_缘怀天道酬勤队_竞速四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/海南大学_DXS追风逐日队_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/燕山大学_燕凌队_基础四轮组_技术报告.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/燕山大学里仁学院_熊猫先生_四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/长春理工大学_追风四队_四轮组.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/国一技术报告/集美大学_4JM_基础四轮组.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000244.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000249.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000302.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000307.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000312.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000316.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000323.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/PCB照片/PCB照片IMG20220722000328.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/车模检查要求.docx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/车模照片/车模照片IMG20220722000416.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/车模照片/车模照片IMG20220722000422.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/车模照片/车模照片IMG20220722000426.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/技术报告/电磁/跃能队车模报告/车模照片/车模照片IMG20220722000435.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/控制算法/PID相关文档/PID的智能车控制算法研究.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/博特电子方案/博特电子-恒功率充电系统设计详解.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/原始资料包/四轮.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/四轮/四轮报告/四轮照片/8abb118f515d5cbe00884aa4549aa42.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/四轮/四轮报告/四轮照片/e6a20ff64da9e56a66a57d01cc60467.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/四轮/四轮报告/四轮照片/微信图片编辑_20210713223003.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/四轮/四轮报告/四轮照片/微信图片编辑_20210713223027.jpg" filter=lfs diff=lfs merge=lfs -text
+"方案资料/无线充电/设计说明/QT220619_智能车用Aurix线上培训_无线充电硬件设计与交流(1).pptx" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/电磁硬件资料/STC16v2.1 v2.0往年老版本.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/电磁硬件资料/V2.2版本资料十八届新版本.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/电磁硬件资料/咸鱼工程.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/电磁项目副本/STC16v2.1 v2.0往年老版本.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/电磁项目副本/V2.2版本资料十八届新版本.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/赛事要求/比赛要求.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/STC8H&16F&32G_主板_V2.2.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/ZUIHOU.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.01-电阻.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.02-电位器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.03-压敏元件.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.10-电容.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.20-电感.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.21-直插电感、共模电感.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.30-二极管-整流桥堆.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.31-LED发光二极管.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/1.40-晶振、晶体.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.00-SOP、SOIC封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.01-SO封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.02-SSOP封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.03-TSSOP封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.07-SOT封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.10-LQFP封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.11-TQFP封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.12-QFP封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.20-QFN封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.22-UFQFPN-VFQFPN封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.30-BGA封装-DDR2~LPDDR4_Nand Flash.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.40-TO直插元件封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.41-DIP直插封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.42-直插元件.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.50-电路模块.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.51-传感器IC.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/2.54-PLCC插槽封装.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.00-数码管、点阵、OLED屏.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.01-按键按钮.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.02-拨动开关-拨码开关.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.03-电池-电源接口-保险丝.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.04-M.2-NGFF-HDMI-USB3.1 Type C接口.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.05-RJ11-RJ45-D_SUB-VGA-SCSI接口-网络变压器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.06-蜂鸣器-音频接口.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.07-测试点-跳线座-冷压插片.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.08-SD、TF卡.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.10-继电器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.11-变压器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/3.13-M3铜柱-散热片.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.00-SH1.0连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.02-1.00mm排针-排母.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.03-1.27mm排针-排母.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.04-2.00mm排针-排母.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.05-2.54mm排针-排母.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.06-IDC-2.54mm直插简牛插座.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.07-IDC-2.54mm贴片简牛插座.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.08-XH2.54连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.09-KF-2.54连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.10-GH1.25连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.11-MX1.25连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.15-ZH1.5连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.20-PH2.0连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.21-PHB2.0mm连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.22-PHD2.0mm连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.25-KF-3.5mm连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.30-KF-5.08连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.32-CZ-5.08mm插座.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.33-CCM-5.08mm卧式直插插座.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.35-HT-3.96mm连接器.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.49-接插件.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.50-FPC插座-0.5mm间距.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.51-FPC插座-1.0mm间距.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.52-FPC插座-1.25mm间距.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/一键安装/4.60-XT30-XT60-AS150车模航模电源接口.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/八路.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/原理图库/0.8 - 常见芯片.SchLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/原理图库/1.1 - 74系列TTL逻辑芯片.SchLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/原理图库/1.5 - 精密运放-比较器.SchLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/原理图库/2.0 - STM8L-STM8S-STM8AF系列单片机.SchLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/原理图库/2.4 - STM32 F1系列单片机.SchLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/工程/STC8H&16F&32G_主板_V2.2.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/八路/工程/ZUIHOU.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/十八届智能车电磁stc32g主板.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/十八届智能车电磁stc32g主板/STC8H&16F&32G_主板_V2.2.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/STC32G主板/十八届智能车电磁stc32g主板/ZUIHOU.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/TC264 377通用母版原理图/LQ-TC264MB-V3.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/TC264 377通用母版原理图/LQ-TC264MB-V3母板全部元件封装库200425.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/TC264主板资料/TC264_MotherBoardV2.5 封装库.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/TC264主板资料/TC264_MotherBoardV2.5 封装库/TC264_MotherBoard_V2.5.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/standalone/PCB1.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/standalone/beifen.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/tc264PCB四轮/PCB_PCB_New Project1111_2022-09-07.json" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/01.MM32F3277G9P_MCU.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/03.Communicate.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/01.MM32F3277G9P_MCU.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/03.Communicate.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源一体板/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRVB701E_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/开源的驱动/开源的驱动/2022_SmartCar_Motor_Drive/IR2104_IR7843(未成功验证)/12V无铜有缓冲.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/一体板/一体板.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/一体板/一体板.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/一体板/一体板.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/可调稳压模块/可调稳压模块.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/无线充电 - buck恒流/无线充电.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/无线充电 - buck恒流/无线充电.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/无线充电/C539647_TLD2331-3EP_2020-06-01.PDF" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/无线充电/无线充电.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/无线充电/无线充电.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/显示屏/IPS114转接板.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/显示屏/OLED.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/无线充电开源资料/显示屏/PCB1.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRVB701E_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/2022_SmartCar_Motor_Drive/IR2104_IR7843(未成功验证)/12V无铜有缓冲.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源一体板/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/01.MM32F3277G9P_MCU.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/2022_SmartCar_Motor_Drive.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRVB701E_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动/开源的驱动/2022_SmartCar_Motor_Drive/IR2104_IR7843(未成功验证)/12V无铜有缓冲.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/无线充电/驱动板/双路.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/STC16/v2.0/STC16F 主板V2.1 集成封装库.IntLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/STC16/v2.0/【封装】STC16F 主板V2.1 集成封装库.IntLib.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/STC16/v2.1/STC16F 主板V2.1 集成封装库.IntLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/STC16/v2.1/STC16F 主板V2.1 集成封装库/STC16F_64P_MotherBoard.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/STC16/v2.1/【封装】STC16F 主板V2.1 集成封装库.IntLib.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证).zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/BTN Motor.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁/项目目录副本/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRVB701E_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/STC16/v2.0/STC16F 主板V2.1 集成封装库.IntLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/STC16/v2.0/【封装】STC16F 主板V2.1 集成封装库.IntLib.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/STC16/v2.1/STC16F 主板V2.1 集成封装库.IntLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/STC16/v2.1/STC16F 主板V2.1 集成封装库/STC16F_64P_MotherBoard.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/STC16/v2.1/【封装】STC16F 主板V2.1 集成封装库.IntLib.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/V2.2版本资料/【封装】STC16F 主板V2.2 集成封装库.IntLib.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/V2.2版本资料/【封装】STC16F 主板V2.2 集成封装库.IntLib/STC8H&16F&32G_主板_V2.2.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/一体板/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/DRVB701E_BSC011N03LSI/DRVB701E_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/电磁硬件资料/各种驱动/IR2104_IR7843(未成功验证)/12V无铜有缓冲.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"软件工程/LQ_TC264dulun - 副本/Libraries/Infra/Sfr/TC26B/_Reg/IfxCan_reg.h" filter=lfs diff=lfs merge=lfs -text
+"软件工程/code/LQ_TC264_DLCMB_V2_LIB.zip" filter=lfs diff=lfs merge=lfs -text
+"软件工程/code/LQ_TC264_DLCMB_V2_LIB/LQ_TC264_DLCMB_V2_LIB/Libraries/Infra/Sfr/TC26B/_Reg/IfxCan_reg.h" filter=lfs diff=lfs merge=lfs -text
+"软件工程/code/dulun_chuanji/Libraries/Infra/Sfr/TC26B/_Reg/IfxCan_reg.h" filter=lfs diff=lfs merge=lfs -text
+"软件工程/code/dulun_chuanji（4.26 vec -1000）.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/工具/TC264/【软件】上位机 串口助手等/【软件】上位机 串口助手等/总钻风上位机/System.Windows.Forms.DataVisualization.dll" filter=lfs diff=lfs merge=lfs -text
+"软件工程/无线充电/四轮/完赛代码/Libraries/Infra/Sfr/TC26B/_Reg/IfxCan_reg.h" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/K60.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/K66.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/RT1021.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/RT1064.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/STM32F103VETx.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/STM32F407ZGTx.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/STM32H750VBTx.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/TC264.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/TC364.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/电磁/【例程】8701适配各个单片机的例程/TC377.7z" filter=lfs diff=lfs merge=lfs -text

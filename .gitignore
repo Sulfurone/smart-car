@@ -1,0 +1,51 @@
+# Local financial and personal records
+/账单发票/
+/方案资料/报名资料/
+/方案资料/整理记录/
+/方案资料/原始资料包/
+*发票*
+*账单*
+*报销*
+*报名*
+*[Ii]nvoice*
+*[Rr]eceipt*
+
+# Local maintenance records and credentials
+/.local-maintenance/
+.env
+.env.*
+*.pem
+*.key
+
+# IDE workspace state and generated build artifacts
+**/.metadata/
+**/__Previews/
+**/Debug/
+!**/Configurations/Debug/
+**/Release/
+**/Objects/
+**/Listings/
+**/History/
+**/Project Logs for */
+**/Project Outputs for */
+*.o
+*.obj
+*.d
+*.elf
+*.map
+*.lst
+*.crf
+*.lnp
+*.pdom
+*.bak
+*.log
+*.LOG
+*.uvgui.*
+*.SEEKFREE*
+*.Administrator
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPCBStructure
+*.PrjPcbStructure
+Thumbs.db
+Desktop.ini
