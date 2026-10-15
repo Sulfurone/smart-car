@@ -49,3 +49,10 @@
 *.PrjPcbStructure
 Thumbs.db
 Desktop.ini
+
+# Downloads and temporary files
+/release-downloads/
+*.downloading
+**/.git/
+__pycache__/
+*.pyc

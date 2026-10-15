@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TC264主驱一体V8.PcbDoc   2023/5/10  22:26:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TC264主驱一体V8.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             375       PTH        0.00inch (0.00mm)
+T2      12mil (0.305mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T4      26mil (0.65mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             89        PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Round             5         PTH        0.00inch (0.00mm)
+T8      47mil (1.2mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T9      67mil (1.7mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T10     79mil (2mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T11     118mil (3mm)                                              Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              516
+
+Total Processing Time (hh:mm:ss) : 00:00:00

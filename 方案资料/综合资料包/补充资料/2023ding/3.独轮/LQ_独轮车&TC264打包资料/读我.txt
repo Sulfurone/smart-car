@@ -1,0 +1,6 @@
+开发环境：AURIX Development Studio1.3
+环境链接：链接：https://pan.baidu.com/s/1Wg7uZ-PFW63A-0p1yOg5jQ 提取码：eawu
+
+独轮车母版与通用母版只有个别引脚不同。大部分历程可以用之前的。
+
+旧版本建立的工程不适用新版本开发环境。不同版本的开发环境可以同时安装并运行。

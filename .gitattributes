@@ -597,3 +597,147 @@
 "软件工程/电磁/【例程】8701适配各个单片机的例程/TC264.7z" filter=lfs diff=lfs merge=lfs -text
 "软件工程/电磁/【例程】8701适配各个单片机的例程/TC364.7z" filter=lfs diff=lfs merge=lfs -text
 "软件工程/电磁/【例程】8701适配各个单片机的例程/TC377.7z" filter=lfs diff=lfs merge=lfs -text
+
+# Supplemental engineering assets (2026-10-15).
+"方案资料/电子理论与参考资料/信号与滤波/滤波器设计.ppt" filter=lfs diff=lfs merge=lfs -text
+"方案资料/电子理论与参考资料/电力电子与驱动原理/电力电子学电力电子变换和控制技术 陈坚.pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/电子理论与参考资料/运放与模拟电路/运放的单电源供电 (4).pdf" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/补充资料/2023ding/3.独轮/独轮TC297直立参考程序.zip" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/补充资料/2023ding/4.三轮摄像头/LQ_TC264DA_WirelessCharging (2).zip" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/补充资料/2023ding/matlab/MATLAB仿真文件.zip" filter=lfs diff=lfs merge=lfs -text
+"方案资料/综合资料包/补充资料/2023ding/灯光秀.7z" filter=lfs diff=lfs merge=lfs -text
+"方案资料/车模与机械/开源3D车模/2023负压电磁.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/8701/8701E单驱（主驱一体）.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/8701/PCB1.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/Infineon-TC26xBC-DataSheet-v01_00-EN.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/TC264V9/TC264主驱一体V9.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/TC264V9/TC264主驱一体V9.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/TC264主驱一体V9/TC264主驱一体V9.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/TC264主驱一体V9/TC264主驱一体V9.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 V4/tc264 V4.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 V4/tc264主驱一体.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 V4/tc264主驱一体.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v1/tc264主板.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v2母版/tc264母版/tc264母版v2.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v2母版/tc264母版供电/tc264母版供电板/tc264母版供电板.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v3/tc264母版供电 V3/tc264 母版供电v3.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v3/tc264母版核心 V3/tc264母版核心v3.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v5/tc264母版供电 V5/tc264 母版供电v3.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v5/tc264母版核心 V3/tc264母版核心 V3.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v5/tc264母版核心 V3/tc264母版核心v5.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v6/tc264母版供电 V6/tc264 母版供电v3.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v6/tc264母版核心 V6.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v6/tc264母版核心 V6/LQ_TC2&3DLCMBV2.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 v6/tc264母版核心 V6/tc264母版核心v6.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 一体/tc264主驱一体.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/tc264 一体/tc264主驱一体.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/主驱一体（主板）/TC264主驱一体V8.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/主驱一体（主板）/TC264主驱一体V8.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/主驱一体（主板）/gerber_TC264主驱一体V8/TC264主驱一体V8.GTO" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/供电V7/tc264 母版供电v7.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/CH32V307VCT6.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/CH32V307VCT6(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/01.MM32F3277G9P_MCU.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P V2.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/MM32F3277G9P(直立一体板)/MM32F3277G9P.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/STC16F40K128.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377 - 副本.step" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/STC16F40K128(四轮主驱一体,未验证)/电磁采集(双面,未验证)/OPA4377.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(无线充电一体板)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(无线充电主驱一体)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/03.Communicate.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/04.Input_Output.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Main_Control/TC264(直立一体板,未验证)/TC264.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/BTN Motor/BTN Motor.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/DRV8701E_CSD87350Q5D/DRV8701E_CSD87350Q5D.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/DRVB701E_BSC011N03LSI/DRV8701E_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI - 副本.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/EG2104_BSC011N03LSI(未验证)/EG2104_BSC011N03LSI.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/2022_SmartCar_Motor_Drive/IR2104_IR7843(未成功验证)/12V无铜有缓冲.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/TC264主驱一体板/2020智能车.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/TC264主驱一体板/2020智能车.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/开源板子/TC264主驱一体板/2020智能车.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/灯板/无线充电组充电灯板.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/灯板/无线充电组充电灯板/PCB1.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/灯板/无线充电组充电灯板/灯板.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/2023ding硬件/硬件_1/tc264 母版供电v7.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.5版本及以下/【例程】各个模块的使用例程.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【例程】各个模块的使用例程.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【例程】各个模块的使用例程/tc264_main_board_demo.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【例程】各个模块的使用例程/tc364_main_board_demo.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【例程】各个模块的使用例程/tc377_main_board_demo.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【例程】各个模块的使用例程/tc387_main_board_demo.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【原理图】主板原理图、丝印图、位号图.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 TC364 TC377 TC387主板资料/V2.6版本/【封装】TC264 主板V2.6 集成封装库.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264 核心板资料/【原理图】核心板原理图 丝印图.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264-All-In-One-Board-main.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264主板资料/【例程】各个模块的使用例程.7z" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264主驱一体板.rar" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264主驱一体板/TC264主驱一体板/2020智能车.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264主驱一体板/TC264主驱一体板/2020智能车.SchDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264资料/龙邱DAPminiWiggler打包资料200330/1.下载器使用手册/使用书册 龙邱DAP miniWiggler使用说明1226.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264资料/龙邱DAPminiWiggler打包资料200330/n.参考资料/Infineon Aurix学习指南--价值资料.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/主控板与核心板/TC264资料/龙邱TC264核心板打包资料200330/ADS问题汇总及解决.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/一体板/一体板.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/一体板/一体板.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/一体板/一体板.pdf" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/可调稳压模块/可调稳压模块.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/无线充电 - buck恒流/无线充电.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/无线充电 - buck恒流/无线充电.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/无线充电/C539647_TLD2331-3EP_2020-06-01.PDF" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/无线充电/无线充电.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/无线充电/无线充电.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/显示屏/IPS114转接板.PcbLib" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/显示屏/OLED.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电开源资料/显示屏/PCB1.PcbDoc" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/无线充电/无线充电恒功率接收1.0版本.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/电机驱动与电调/CH32V307无刷驱动drive-main.zip" filter=lfs diff=lfs merge=lfs -text
+"硬件PCB/补充资料/电机驱动与电调/DRV8701E双电机驱动.zip" filter=lfs diff=lfs merge=lfs -text
+"软件工程/工具/补充资料/无线调试器V2.0.pdf" filter=lfs diff=lfs merge=lfs -text
+"软件工程/工具/补充资料/软件.zip" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/其他程序/灯光秀.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/其他程序/诸葛大神的代码（听说自己写的库膜拜）.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/控制算法/PID算法资料汇总.zip" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/控制算法/双电感_PD舵机.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/NUC_01国赛前.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/十七届平衡单车演示程序/LQ_TC264/LQ_TC264DA_DDC_Xunji211228.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/十七届平衡单车演示程序/LQ_TC264/LQ_TC264DA_DDC_Zhili211228.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/十七届智能车摄像头四轮组演示程序/LQ_TC264DA_CameraC1224.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/独轮.zip" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/整车与竞赛方案/第十一届Butter-Fly队摄像头四轮.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/LQ_TC264无刷电机演示程序/LQ_TC264DA_LIB20220606.rar" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/MM32F327X_G8P.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/MM32F327X_G9P.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/RT021.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/RT1064.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/STM32F103.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/STM32H750.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/TC212.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/TC264.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/TC364.7z" filter=lfs diff=lfs merge=lfs -text
+"软件工程/补充资料/芯片例程与演示/例程/TC377.7z" filter=lfs diff=lfs merge=lfs -text
+
+# Preserve supplemental source bytes for SHA-256 verification.
+"硬件PCB/补充资料/**" -text
+"软件工程/补充资料/**" -text
+"软件工程/工具/补充资料/**" -text
+"方案资料/车模与机械/**" -text
+"方案资料/电子理论与参考资料/**" -text
+"方案资料/综合资料包/补充资料/**" -text
+.gitattributes -text

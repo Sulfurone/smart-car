@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\tempPCBDir\52b7bf64d4b54963648dda2a1217e0a4\tc264母版供电板.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tc264母版供电板-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tc264母版供电板-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

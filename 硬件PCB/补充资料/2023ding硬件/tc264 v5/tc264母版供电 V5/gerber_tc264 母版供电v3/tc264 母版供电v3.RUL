@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\tempPCBDir\fe23155d74a5f14388cd8714a5f77b15\tc264 Ä¸°æ¹©µçv3.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=PWR|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.00

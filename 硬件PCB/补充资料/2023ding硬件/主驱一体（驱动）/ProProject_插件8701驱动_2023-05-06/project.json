@@ -1,0 +1,1646 @@
+{
+  "schematics": {
+    "64e49d0de2e14e36b840de37e9ec72b9": {
+      "name": "Schematic1",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1,
+          "uuid": "34e4d0d6df6344ebba70ebf001226f4e"
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "68c1757b7bb84e28837bc46c694da5d3": "PCB2"
+  },
+  "panels": {},
+  "symbols": {
+    "08389ac9f7c442dc832afd0bce9c4c06": {
+      "source": "a68b597bab428d8d9d028e8702f9d0f6",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TPH1R403NL",
+      "version": "02998ddd43afd708a26b52a92be1bd6e",
+      "type": 2
+    },
+    "1569025bb158494c9e81237b10f26945": {
+      "source": "c882b9e7ba0a43c7b728824b8bcfda12|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]",
+      "title": "SS34_C154551",
+      "version": "1673332525",
+      "type": 2
+    },
+    "22819d192e0e422e81093c362af7d312": {
+      "source": "73e837461c851d325a262d88bcc2e760",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "10uF",
+      "version": "17299f0be517c2b76816bac8130d5ffd",
+      "type": 2
+    },
+    "231d277261a44dc097cdcdae3b018481": {
+      "source": "570a7177ba654dd38442abefd130009e|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]",
+      "title": "1N5824_C508482",
+      "version": "1679083330",
+      "type": 2
+    },
+    "2339c8947f2a460fb0a10510324b67f8": {
+      "source": "542d01b8b25e4236a453d7437c3944df|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Ground-GND",
+      "version": "1642995718",
+      "type": 18
+    },
+    "2cbfdaeb02ca421dbe61f11ff97db188": {
+      "source": "ca8bc3820716462f8ddbe8b73e24f066|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"三极管/MOS管/晶体管\",\"场效应管(MOSFET)\"]",
+      "title": "TPH1R403NL",
+      "version": "1672434304",
+      "type": 2
+    },
+    "352d6b96575242b49a02c42273e6863a": {
+      "source": "eec5ca16eb7a29985d7dcb84eac54c07",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "GND",
+      "version": "1372807c0ff49089a68a8db13d94cb61",
+      "type": 18
+    },
+    "3cdb7e7d265b413bafadd777f93dd66b": {
+      "source": "72b6dfe9269f44e5b8f093ee0e8754fb",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "LED-0805_R",
+      "version": "4e755532bec0bd82757c5d108f6d51ed",
+      "type": 2
+    },
+    "4cc83d615a0246209cd9f1e482d4ae6f": {
+      "source": "26dfef0660c5609ce2a9ae9c87ccf92e",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "0R",
+      "version": "53d8c4198a3ce624e9f4501aa2403e82",
+      "type": 2
+    },
+    "4f4d3a3f5fa548aab2e24446d0fc8f02": {
+      "source": "5a3121c8dd04a490dd6274bcd7655bb8",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "M3铜柱",
+      "version": "85ff7881eefd51de5d29cfdc8906f009",
+      "type": 2
+    },
+    "505b313c624249168b5617ed5696830a": {
+      "source": "337f98afd0264cae93d16cc3bf65754a|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"电阻\",\"贴片电阻\"]",
+      "title": "电阻",
+      "version": "1653966354",
+      "type": 2
+    },
+    "6a10331d19de4a91a2b65caa303466db": {
+      "source": "f079a03780bb9817d0184a10322880e9",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "DHT11",
+      "version": "1f16505eb94a48a858391ef556ba2f7d",
+      "type": 2
+    },
+    "6a2a756ef9164926857f461eb5f814ec": {
+      "source": "23a83c8c0a133fd51495609f6dc4271e",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "CONN-TH_2P-P5.00",
+      "version": "f424059ae5d42bb35eeb1e4a2ecaef77",
+      "type": 2
+    },
+    "6c62034ddd7d4367a7a5ef05b7e34ec4": {
+      "source": "a1a4c9f331e14b1185233e8b46622665|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]",
+      "title": "1N5819_C437199",
+      "version": "1673136315",
+      "type": 2
+    },
+    "6ee6fcc483b049f8925cc035e2336167": {
+      "source": "6980fbe642689267e423b8f93b6c64ea",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "1uF",
+      "version": "dcd0dfda598d04900be6b96724dad472",
+      "type": 2
+    },
+    "726c61f6d01e4876b767784d2cd0bdb8": {
+      "source": "d095e22de488cc3d9e02fa155e7aeb63",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "DRV8701ERGET",
+      "version": "7ae0ce14385267b9cd0cb83bee1ee0b3",
+      "type": 2
+    },
+    "75a4e168106e49c5bb0f9b816a222a35": {
+      "source": "33cb60f72a881b8ad16839983cccd9a7",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "0.5K-DX-8PWBG",
+      "version": "a504721d50d4ca51aad8187aa238818d",
+      "type": 2
+    },
+    "797b6cbe24a14b638c89b3a5f207c872": {
+      "source": "a83b5980ce078e6cce11edd379279cd9",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "db5c5434161a879c",
+      "version": "d7b43f0195842a52ea15f929cbdc5592",
+      "type": 22
+    },
+    "7c1f56df02e1492693e76f771a229530": {
+      "source": "f66903d5606527bef9bf95c998514dec",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "BZT52C3V3_C908185",
+      "version": "f29b492bf0c4f1adce88b018bae6fc80",
+      "type": 2
+    },
+    "7e4a5e4792b749148214ca5ddea20c64": {
+      "source": "8aa09f27c38d2617a7bc5d8dcbfe81f4",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SS-1290",
+      "version": "5ce249465f9a847e35b3490ff7a09fb9",
+      "type": 2
+    },
+    "7e5b885c381941f8b5018a26bbcf44fe": {
+      "source": "ad039decc20ecd7bdf5014346f2875ed",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "10K",
+      "version": "58d8ca2b2162b1274465602d5c4ea8d1",
+      "type": 2
+    },
+    "82505edcad854bc2be101cfd72ac1b3b": {
+      "source": "c1b8b751a29345708c24bcef9a67e2b3|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Power-VCC",
+      "version": "1659060554",
+      "type": 18
+    },
+    "941c64fdd3db418aa34f610bd0ffea7e": {
+      "source": "a3fd7a9c4b5f40ca8e062f99944a8e80|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"光电器件\",\"发光二极管\"]",
+      "title": "LED_R",
+      "version": "1652432236",
+      "type": 2
+    },
+    "9ffc25a5f4e64969b6bf1e322d4b5384": {
+      "source": "2a520e0a1ea422ccd879ea9ca5971167",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "100nF",
+      "version": "7485449acdec89210ba22e9e3b3eac75",
+      "type": 2
+    },
+    "a05826114d2f41ff9f4135999587a1d4": {
+      "source": "f2baecf085944dad81faf9a0fd6bfcea|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Sheet-Symbol_A4",
+      "version": "1664282381",
+      "type": 20
+    },
+    "a61a1318be214764bf57aaad2eac93f2": {
+      "source": "a5ca12c00d9c11c5a782bbebbb6fcb11",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "1N5819_C437199",
+      "version": "7eaae6dcf789fe0e56fb7bf1b11f1eac",
+      "type": 2
+    },
+    "b2d558ac5a484d64aa6eb6971d090793": {
+      "source": "678a9e81e58d74d58ba905b566a33693",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "3V3",
+      "version": "00392ccaec7a34bfc3b41081b837489d",
+      "type": 18
+    },
+    "bb5dd3e29c964f14a9de2fd6fcdde7fe": {
+      "source": "aee1833a891f29956b6ca6b635b33b48",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "1k",
+      "version": "f5ab65d1cfb46d0d666fb240153743ac",
+      "type": 2
+    },
+    "c22a12b4cecf465784ca64990bb8a8a0": {
+      "source": "ed219438d1828fa614b25c079a9d66fc",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "A_A4",
+      "version": "10dababb3d533bd8004a493756877be0",
+      "type": 20
+    },
+    "cacc4690057849809a0f14ac2a267792": {
+      "source": "f1374d5f48e7e0beab64fdb365d831c2",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "100uF",
+      "version": "685e377bbb2fd1b111131f06c905e4c3",
+      "type": 2
+    },
+    "d02c6eb7438c487d9ff89443522cc391": {
+      "source": "ce31a55b632b45bcb7ca7debbd0500ce|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "2.54mm 1*8P",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"连接器\",\"排母\"]",
+      "title": "Header-Female-2.54_1x8",
+      "version": "1672260602",
+      "type": 2
+    },
+    "d99163a4fec64249947f321d1ccf4e54": {
+      "source": "27659f8b12bdd10824f4a15430abca71",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "2.7K",
+      "version": "58d8ca2b2162b1274465602d5c4ea8d1",
+      "type": 2
+    },
+    "e09b06bff3d24c9696a8a14e96bdab6a": {
+      "source": "fc0ab04bd4dfe80135988b7eb679effc",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "ESP-01S",
+      "version": "cd2c1304e21c91ac2d9babcf1110c7c3",
+      "type": 2
+    },
+    "efb52aea0e364345ba3c78a024de6401": {
+      "source": "582496684c143241ddc374855d0bd7f3",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "0.96OLED_4P",
+      "version": "acb542859a5d8375c2108e46554c55a8",
+      "type": 2
+    },
+    "f7475e4893924db6ae002542507e7da5": {
+      "source": "216820c1c5786b0f3f18ccaa5a88e9ca",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "光敏电阻模块",
+      "version": "850e2406855e7b8281d83298a37236d2",
+      "type": 2
+    },
+    "f88267b445c44945b04abfe8591d949f": {
+      "source": "fc2ee8cc43754ed45d92e42532b678eb",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "TSA363G25-250B",
+      "version": "0091c89d3a82b6af79c101f7045277ae",
+      "type": 2
+    },
+    "fb4425c3f8a04f218d79e5912c6ec1dd": {
+      "source": "ce82c8ae235230490d7fd22862e77ea1",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "SN74HC125PWR",
+      "version": "48515b799755a453f949b29b0e10fafa",
+      "type": 2
+    },
+    "fb44b9795d454b10b692d3430d458537": {
+      "source": "583a65df9db4119165f5ea0abaa50281",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "VM",
+      "version": "00392ccaec7a34bfc3b41081b837489d",
+      "type": 18
+    },
+    "fc07eb7b48ee4bd1b7821ab0b4a29e9b": {
+      "source": "5d674c95b7574766a3b75630d45d52f8|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"按键/开关\",\"按键开关\"]",
+      "title": "PS-5850A-6PL",
+      "version": "1672845916",
+      "type": 2
+    }
+  },
+  "footprints": {
+    "277699de6a7449848253277e421c0656": {
+      "title": "CONN-TH_2P-P5.00_GS017-5.0-2P",
+      "source": "801593feb7654a0fbd2e37a67fb40182|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1636445603",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CONN-TH_2P\",\"\"]"
+    },
+    "7e435a3800004734b0dc61ddf5a673df": {
+      "title": "R0603",
+      "source": "50b4943912284dab97752312e589e9e2|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1676254243",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-SMD\"]"
+    },
+    "8d35f4571c4f41aa92c58d26c81c7f00": {
+      "title": "SW-TH_L12.8-W5.6-P3.00_SS-12F14G",
+      "source": "097d5576084d4eaa94e132411be121af|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1683200403",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SW-TH\",\"\"]"
+    },
+    "9fc4886575f341ae923c2825e9aea294": {
+      "title": "LED_0603",
+      "source": "78aca475123941b7aea1e11e170ac742|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1670466657",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]"
+    },
+    "a4303491cf494b028ee13157202aaa07": {
+      "title": "HVQFN-24_L4.0-W4.0-P0.50-BL-EP2.6",
+      "source": "bd535c42028348db87799f3a934cedf1|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1649414248",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HVQFN-24\",\"\"]"
+    },
+    "a4e38a5661c649119dd60d447a5329cf": {
+      "title": "HSOP-8_L6.0-W5.0-P1.27-LS6.0-BL",
+      "source": "710feb6fafef4363aef7be97475f3f00|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1678753548",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HSOP-8\",\"\"]"
+    },
+    "a5d1c7f1bc1a4bcaab0c97a9f42f8b4b": {
+      "title": "DSOP-8_L5.0-W5.0-P1.27-LS6.0-BL-EP",
+      "source": "5e80e0fddc9040fba8d4b888b93c35fa|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1657091312",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"DSOP-8\"]"
+    },
+    "b86b48c9b73c4e639fe1190949c5d7b3": {
+      "title": "DO-201AD_BD5.3-L9.5-P13.50-D1.4-RD",
+      "source": "aee57f6fdd2d48fdb223f6708f9dac5d|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1681204746",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"DO-201AD\"]"
+    },
+    "b9034ebda0b24077b6e7dd1597a42c2a": {
+      "title": "SMA_L4.4-W2.6-LS5.0-RD",
+      "source": "42b4bdb98f6a4c60a2cd002e6c0ea909|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652794726",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SMA\"]"
+    },
+    "c7f5790ceeb642caabdde2b4e9e47613": {
+      "title": "R0603_NEW",
+      "source": "3130cc62a6f94b7fb3a7366093eb562a|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1651209504",
+      "type": 4,
+      "desc": "该封装用于内部测试",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"R0603\",\"\"]"
+    },
+    "d6badcfad9b3424f9dcf55b3e7b49a2c": {
+      "title": "SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-BL",
+      "source": "94a0a04fe1de4ab3a0f05594d2ff4109|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652261751",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SW-TH\"]"
+    },
+    "d8ea0ee0e81140e79a8e832be0f02901": {
+      "title": "HDR-TH_8P-P2.54-V-F-1",
+      "source": "e3ab7ca476da45f69302b7d1ef287ec6|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1627379429",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]"
+    },
+    "ea76054e0145409ba21eb5e1b3934238": {
+      "title": "SMC_L6.9-W5.9-LS7.9-RD",
+      "source": "069b625b09bd496eb2ed424307f3e157|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652427815",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SMC\"]"
+    }
+  },
+  "devices": {
+    "084f70cfc9d34ae18b0a18222ea72479": {
+      "title": "HDR-F_2.54_1x8P",
+      "attributes": {
+        "Symbol": "d02c6eb7438c487d9ff89443522cc391",
+        "Designator": "H?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Footprint": "d8ea0ee0e81140e79a8e832be0f02901",
+        "Supplier Part": "C27438",
+        "Supplier Footprint": "插件",
+        "3D Model": "0f7e4d9227ef4fa08d5469c22cc70cdb",
+        "3D Model Title": "HDR-F-2.54_1x8",
+        "3D Model Transform": "799.99844,100,0,0,0,0,0,0,-118.11",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "09ccf5acea794893af16623d8faa25ad|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654078240",
+      "custom_tags": "[\"连接器\",\"排母\"]"
+    },
+    "0920ea6f0bc74082a68bec7c6398a432": {
+      "title": "0R",
+      "attributes": {
+        "Designator": "R?",
+        "Symbol": "4cc83d615a0246209cd9f1e482d4ae6f",
+        "Supplier Part": "",
+        "Supplier": "",
+        "Manufacturer Part": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "0R"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "26dfef0660c5609ce2a9ae9c87ccf92e",
+      "version": "d7a31fcae81551d4bbbb15c1b138d886",
+      "custom_tags": ""
+    },
+    "092ecaa1bf8d4799ad5c90336bb57a58": {
+      "title": "VM",
+      "attributes": {
+        "Symbol": "fb44b9795d454b10b692d3430d458537",
+        "Footprint": "",
+        "Name": "VM"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "583a65df9db4119165f5ea0abaa50281",
+      "version": "2b8aa9b567c01a479520e46a863facb1",
+      "custom_tags": ""
+    },
+    "1237f90d9f4e48718ed6ae5e1a0a82e2": {
+      "title": "0.96OLED_4P",
+      "attributes": {
+        "Designator": "OLED?",
+        "Symbol": "efb52aea0e364345ba3c78a024de6401",
+        "Supplier Part": "",
+        "Supplier": "LCSC",
+        "Manufacturer": "",
+        "Manufacturer Part": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "0.96OLED_4P"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "582496684c143241ddc374855d0bd7f3",
+      "version": "4a6c8f68bbed8280d72f9fa162fb12a9",
+      "custom_tags": ""
+    },
+    "1a39601f0a85404fbf4d4770ece4cc72": {
+      "title": "db5c5434161a879c",
+      "attributes": {
+        "Symbol": "797b6cbe24a14b638c89b3a5f207c872",
+        "Footprint": "",
+        "Name": "db5c5434161a879c"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a83b5980ce078e6cce11edd379279cd9",
+      "version": "9da227962a04deb14ed763c413bc42dc",
+      "custom_tags": ""
+    },
+    "1bd6c73c6e61407390937910496f4ed6": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "82505edcad854bc2be101cfd72ac1b3b",
+        "Global Net Name": "VCC",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "b381658129d94456b54f23250ef5a375|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1659060554",
+      "custom_tags": "[]"
+    },
+    "1eed7f01413346eaa9431673a80d94a1": {
+      "title": "CL21F105ZOFNNNE",
+      "attributes": {
+        "Designator": "C?",
+        "Symbol": "6ee6fcc483b049f8925cc035e2336167",
+        "Supplier": "LCSC",
+        "Manufacturer Part": "CL21F105ZOFNNNE",
+        "Manufacturer": "SAMSUNG",
+        "Supplier Part": "C16834",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "CL21F105ZOFNNNE"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "de83ce80bef8a3dfe19f495794cf3d58",
+      "version": "4f2278bd9193e35299af2b2fbce8cc73",
+      "custom_tags": ""
+    },
+    "2648a794360445bfb586f60492322e52": {
+      "title": "PS-5850A-6PL",
+      "attributes": {
+        "LCSC Part Name": "自锁按键开关",
+        "Supplier Part": "C963201",
+        "Manufacturer": "G-Switch(品赞)",
+        "Manufacturer Part": "PS-5850A-6PL",
+        "Supplier Footprint": "插件,5.8x5.8x10mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20201201/C963201_9229C247AC907A82E381B4EE0BC1DEDE.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "fc07eb7b48ee4bd1b7821ab0b4a29e9b",
+        "Designator": "SW?",
+        "Footprint": "d6badcfad9b3424f9dcf55b3e7b49a2c",
+        "3D Model": "1ed2c27cb44d4e749ca1b87d8a9b7b15",
+        "3D Model Title": "SW-TH_6P-L5.8-W5.8-P2.00-LS4.5-BL",
+        "3D Model Transform": "228.346,228.346,0,0,0,0,0,0,-137.795",
+        "Name": "={Manufacturer Part}",
+        "Description": "5.8自锁按键开关 高头 耐高温"
+      },
+      "description": "5.8自锁按键开关 高头 耐高温",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20201209/9A262D8E2932BF0275486555022F7976.jpg"
+      ],
+      "source": "7bf535492234407fab228e9ff34805ec|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654804999",
+      "custom_tags": "[\"按键/开关\",\"按键开关\"]"
+    },
+    "280c95fefa8045e2a60cdef991d4fcdc": {
+      "title": "TPH1R403NL_C83440",
+      "attributes": {
+        "LCSC Part Name": "N沟道 30V 150A",
+        "Supplier Part": "C83440",
+        "Manufacturer": "TOSHIBA(东芝)",
+        "Manufacturer Part": "TPH1R403NL",
+        "Supplier Footprint": "DSOP-8-EP-5.0mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170908/C83440_1504870121708958077.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "2cbfdaeb02ca421dbe61f11ff97db188",
+        "Designator": "Q?",
+        "Footprint": "a5d1c7f1bc1a4bcaab0c97a9f42f8b4b",
+        "3D Model": "fd92c76776d2405fb1c2e20561f3a3aa",
+        "3D Model Title": "DSOP-8_L5.0-W5.0-H0.7-LS6.0-P1.27",
+        "3D Model Transform": "236.22,196.85,0,90,0,0,-0.015,0.005,0",
+        "Type": "N沟道",
+        "Drain Source Voltage (Vdss)": "30V",
+        "Continuous Drain Current (Id)": "150A",
+        "Power Dissipation (Pd)": "64W",
+        "Drain Source On Resistance (RDS(on)@Vgs,Id)": "1.4mΩ@10V,30A",
+        "Gate Threshold Voltage (Vgs(th)@Id)": "2.3V@500uA",
+        "Name": "={Manufacturer Part}",
+        "Description": "类型:N沟道;漏源电压(Vdss):30V;连续漏极电流(Id):150A;功率(Pd):64W;导通电阻(RDS(on)@Vgs,Id):1.4mΩ@10V,30A;阈值电压(Vgs(th)@Id):2.3V@500uA;"
+      },
+      "description": "类型:N沟道;漏源电压(Vdss):30V;连续漏极电流(Id):150A;功率(Pd):64W;导通电阻(RDS(on)@Vgs,Id):1.4mΩ@10V,30A;阈值电压(Vgs(th)@Id):2.3V@500uA;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20221231/996826CF6C9AEAD3BC1C45B8AA5D12F8.jpg"
+      ],
+      "source": "9b5e97b97f2a41d7a1d50870d3608904|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1681470076",
+      "custom_tags": "[\"三极管/MOS管/晶体管\",\"场效应管(MOSFET)\"]"
+    },
+    "412397166cc14b82a912160c475584be": {
+      "title": "0805W8F2701T5E",
+      "attributes": {
+        "Designator": "R?",
+        "Symbol": "d99163a4fec64249947f321d1ccf4e54",
+        "Supplier": "LCSC",
+        "Manufacturer": "UniOhm",
+        "Manufacturer Part": "0805W8F2701T5E",
+        "Supplier Part": "C17530",
+        "JLCPCB Part Class": "Basic",
+        "JLCPCB SMD": "Yes",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "0805W8F2701T5E"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "055c73420f0704d4c1be2b0b6a70a96a",
+      "version": "1cbf227d177e68bd94b296bea4dfe6ca",
+      "custom_tags": ""
+    },
+    "45663db52a674fea8b08feba2d01d03f": {
+      "title": "LED_0603-R",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Designator": "LED?",
+        "Supplier Footprint": "0603",
+        "Symbol": "941c64fdd3db418aa34f610bd0ffea7e",
+        "Footprint": "9fc4886575f341ae923c2825e9aea294",
+        "3D Model": "dd8257b0d61a4cd7b68939a056e08095",
+        "3D Model Title": "LED-0603_R",
+        "3D Model Transform": "58.72,29.4,22.03,0,0,0,0,0,0",
+        "Name": "",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "2d606df000804394b878b41181f318c1|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1670466856",
+      "custom_tags": "[\"光电器件\",\"发光二极管\"]"
+    },
+    "47f3f1c61baa4b658fa1a31f86740807": {
+      "title": "CONN-TH_2P-P5.00",
+      "attributes": {
+        "Designator": "P?",
+        "Symbol": "6a2a756ef9164926857f461eb5f814ec",
+        "Supplier Part": "",
+        "Supplier": "LCSC",
+        "Manufacturer": "",
+        "Manufacturer Part": "",
+        "image": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "CONN-TH_2P-P5.00"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "23a83c8c0a133fd51495609f6dc4271e",
+      "version": "965cfaede66b98b8b016db30a4a99d77",
+      "custom_tags": ""
+    },
+    "4a391df2be1a471baa6856ef0c7c88ee": {
+      "title": "17-21SURC/S530-A3/TR8",
+      "attributes": {
+        "Designator": "LED?",
+        "Symbol": "3cdb7e7d265b413bafadd777f93dd66b",
+        "Manufacturer": "EVERLIGHT(台湾亿光)",
+        "Manufacturer Part": "17-21SURC/S530-A3/TR8",
+        "Supplier Part": "C72037",
+        "Supplier": "",
+        "link": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "17-21SURC/S530-A3/TR8"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "07028b8be11cda254b704fb64ecb6208",
+      "version": "36ce46290adefc7119d1b831f45be5cd",
+      "custom_tags": ""
+    },
+    "4ad67aec03d446688690986ae7988e6e": {
+      "title": "0.5K-DX-8PWBG",
+      "attributes": {
+        "Designator": "FPC?",
+        "Symbol": "75a4e168106e49c5bb0f9b816a222a35",
+        "Supplier": "LCSC",
+        "Supplier Part": "C2911880",
+        "Manufacturer": "HDGC(华德共创)",
+        "Manufacturer Part": "0.5K-DX-8PWBG",
+        "JLCPCB Part Class": "Extended Part",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "0.5K-DX-8PWBG"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "33cb60f72a881b8ad16839983cccd9a7",
+      "version": "67ddab4f54d3d20f8b71293cc16ee1f2",
+      "custom_tags": ""
+    },
+    "4c79d34932e2411c952b94c78092369c": {
+      "title": "1N5819_C437199",
+      "attributes": {
+        "LCSC Part Name": "40V 1A 500mV@1A",
+        "Supplier Part": "C437199",
+        "Manufacturer": "KEXIN(科信)",
+        "Manufacturer Part": "1N5819",
+        "Supplier Footprint": "SMA",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20191012/C437199_83583E622A6684E767605E43C169C596.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "6c62034ddd7d4367a7a5ef05b7e34ec4",
+        "Designator": "D?",
+        "Footprint": "b9034ebda0b24077b6e7dd1597a42c2a",
+        "3D Model": "a2d22152f8d5421c8e96dbd56af7c345",
+        "3D Model Title": "SMA_L4.4-W2.6-LS5.0-RD",
+        "3D Model Transform": "204.724,98.425,0,0,0,0,0,0,0",
+        "Reverse Voltage (Vr)": "40V",
+        "Average Rectified Current (Io)": "1A",
+        "Forward Voltage (Vf@If)": "500mV@1A",
+        "Name": "={Manufacturer Part}",
+        "Description": "直流反向耐压(Vr):40V;平均整流电流(Io):1A;正向压降(Vf):500mV@1A;"
+      },
+      "description": "直流反向耐压(Vr):40V;平均整流电流(Io):1A;正向压降(Vf):500mV@1A;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20230108/49743ABC136F7B2EE8C2BC52F94E5A5F.jpg"
+      ],
+      "source": "cc1585595f84466193915b943328ee41|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654720935",
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]"
+    },
+    "507fd26196df4516b99d00ed5d1c0f69": {
+      "title": "RG2012P-103-B-T5",
+      "attributes": {
+        "Designator": "R?",
+        "Symbol": "7e5b885c381941f8b5018a26bbcf44fe",
+        "Supplier": "LCSC",
+        "Supplier Part": "C328719",
+        "Manufacturer": "SUSUMU",
+        "Manufacturer Part": "RG2012P-103-B-T5",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "RG2012P-103-B-T5"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f1bdf6c64ffc88f39890fbce6ef3a832",
+      "version": "e20cae7fb7998271b90735a72d8f4d18",
+      "custom_tags": ""
+    },
+    "54ccbb5691864600a82a6dda5aaec5a9": {
+      "title": "Res_0603",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Designator": "R?",
+        "Supplier Footprint": "0603",
+        "Symbol": "505b313c624249168b5617ed5696830a",
+        "Footprint": "7e435a3800004734b0dc61ddf5a673df",
+        "3D Model": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Value": "10K",
+        "Name": "={Value}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "f61af53b8d604d888b6dd9daa1a301b0|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1653975500",
+      "custom_tags": "[\"电阻\",\"贴片电阻\"]"
+    },
+    "5539dc38125d4397b03285e5ab4f6eea": {
+      "title": "GND",
+      "attributes": {
+        "Symbol": "352d6b96575242b49a02c42273e6863a",
+        "Footprint": "",
+        "Name": "GND"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "eec5ca16eb7a29985d7dcb84eac54c07",
+      "version": "318c292a3a5d53c79435272745e8691d",
+      "custom_tags": ""
+    },
+    "588479a77c4d45c589f711d9f4c646f2": {
+      "title": "光敏电阻模块",
+      "attributes": {
+        "Designator": "U?",
+        "Symbol": "f7475e4893924db6ae002542507e7da5",
+        "Manufacturer": "",
+        "Manufacturer Part": "",
+        "Supplier Part": "",
+        "Supplier": "",
+        "link": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "光敏电阻模块"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "216820c1c5786b0f3f18ccaa5a88e9ca",
+      "version": "86889a4df86b1729fe74a09922bc9ef6",
+      "custom_tags": ""
+    },
+    "5b80382159814c3d8896fddbb3a823aa": {
+      "title": "ESP-01S",
+      "attributes": {
+        "Designator": "U?",
+        "Symbol": "e09b06bff3d24c9696a8a14e96bdab6a",
+        "Manufacturer Part": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "ESP-01S"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "fc0ab04bd4dfe80135988b7eb679effc",
+      "version": "54f1e910af5d176908398e6534e4cb37",
+      "custom_tags": ""
+    },
+    "61af4081779d4554ad27bf6f5f625e48": {
+      "title": "SPZ1HM101F09O00RAXXX",
+      "attributes": {
+        "Designator": "C?",
+        "Symbol": "cacc4690057849809a0f14ac2a267792",
+        "Supplier": "LCSC",
+        "Supplier Part": "C171434",
+        "Manufacturer": "Aihua Group",
+        "Manufacturer Part": "SPZ1HM101F09O00RAXXX",
+        "Paste Type": "expand",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "SPZ1HM101F09O00RAXXX"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "44221abc586507f7e29b82e7770ae323",
+      "version": "96aa7979e088b300c7c94a9ec10430da",
+      "custom_tags": ""
+    },
+    "6a4075b3fa6c41ec8d44c69585704716": {
+      "title": "CL21B104MBCNNNC",
+      "attributes": {
+        "Designator": "C?",
+        "Symbol": "9ffc25a5f4e64969b6bf1e322d4b5384",
+        "Supplier": "LCSC",
+        "Supplier Part": "C730459",
+        "Manufacturer": "Samsung Electro-Mechanics",
+        "Manufacturer Part": "CL21B104MBCNNNC",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "CL21B104MBCNNNC"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "809a0f17bfd43a36818408acdf1042f9",
+      "version": "6244c99aa18d3402fed0898d08ce3aaf",
+      "custom_tags": ""
+    },
+    "6a437e30fd844394b0965a3b05f16c39": {
+      "title": "C2012X5R1E106KT000N",
+      "attributes": {
+        "Designator": "C?",
+        "Symbol": "22819d192e0e422e81093c362af7d312",
+        "Supplier": "LCSC",
+        "Supplier Part": "C329933",
+        "Manufacturer": "TDK",
+        "Manufacturer Part": "C2012X5R1E106KT000N",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "C2012X5R1E106KT000N"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "8ad9daae1d9e36170513380b639f2361",
+      "version": "7ba138ae5b9821066f4027a9c373f376",
+      "custom_tags": ""
+    },
+    "6a4d5ea6324745f2a8f2aa98f92599a8": {
+      "title": "M3铜柱",
+      "attributes": {
+        "Designator": "TP?",
+        "Symbol": "4f4d3a3f5fa548aab2e24446d0fc8f02",
+        "Manufacturer": "",
+        "Manufacturer Part": "",
+        "Supplier Part": "",
+        "Supplier": "",
+        "link": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "M3铜柱"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "5a3121c8dd04a490dd6274bcd7655bb8",
+      "version": "dee520f9f906a7a909f30345e5ae7ac7",
+      "custom_tags": ""
+    },
+    "6f845b9ce01b400c90dec22dc6a3b51e": {
+      "title": "SS-1290",
+      "attributes": {
+        "Designator": "SW?",
+        "Symbol": "7e4a5e4792b749148214ca5ddea20c64",
+        "Supplier": "LCSC",
+        "Supplier Part": "C589295",
+        "Manufacturer": "RI SHENG",
+        "Manufacturer Part": "SS-1290",
+        "JLCPCB Part Class": "Extended Part",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "SS-1290"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "8aa09f27c38d2617a7bc5d8dcbfe81f4",
+      "version": "0ac58bed3302e07118995a83b7c18a5e",
+      "custom_tags": ""
+    },
+    "729fd8e277524a4882e455d9cc1e0d78": {
+      "title": "1N5824_C508482",
+      "attributes": {
+        "LCSC Part Name": "30V 5A",
+        "Supplier Part": "C508482",
+        "Manufacturer": "SUNMATE(森美特)",
+        "Manufacturer Part": "1N5824",
+        "Supplier Footprint": "DO-201AD",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20221227/441F99ACBA92F0F60BC9165D802C5793.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "231d277261a44dc097cdcdae3b018481",
+        "Designator": "U?",
+        "Footprint": "b86b48c9b73c4e639fe1190949c5d7b3",
+        "3D Model": "cfc14ddc43914a628d55ee9e29184ab8",
+        "3D Model Title": "DO-201AD_BD5.3-L9.5-P13.50-D1.4-RD",
+        "3D Model Transform": "566.928,208.661,0,0,0,0,0,0,-196.85",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20230109/BE9DC2B68055B0A9C33FADD26470F2DA.jpg"
+      ],
+      "source": "cda405ea76104728a4d6b7d27c07b31b|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1679084402",
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]"
+    },
+    "796c2de3cc884477bdcc65a70eacbd07": {
+      "title": "3V3",
+      "attributes": {
+        "Symbol": "b2d558ac5a484d64aa6eb6971d090793",
+        "Footprint": "",
+        "Name": "3V3"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "678a9e81e58d74d58ba905b566a33693",
+      "version": "360b5055395638f4a28dac24265ac8f3",
+      "custom_tags": ""
+    },
+    "8a47e3960c4c48fd833e84e9d9981454": {
+      "title": "SN74HC125PWR",
+      "attributes": {
+        "Designator": "U?",
+        "Symbol": "fb4425c3f8a04f218d79e5912c6ec1dd",
+        "Supplier": "LCSC",
+        "Supplier Part": "C132994",
+        "Manufacturer": "Texas Instruments",
+        "Manufacturer Part": "SN74HC125PWR",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "SN74HC125PWR"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "ce82c8ae235230490d7fd22862e77ea1",
+      "version": "f59ebddf86b4d765c44c9b8eee2e28ec",
+      "custom_tags": ""
+    },
+    "930ea1bc9dc94d27acfc096fc2ae4375": {
+      "title": "1k",
+      "attributes": {
+        "Designator": "R?",
+        "Symbol": "bb5dd3e29c964f14a9de2fd6fcdde7fe",
+        "Supplier Part": "",
+        "Supplier": "",
+        "Manufacturer Part": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "1k"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "aee1833a891f29956b6ca6b635b33b48",
+      "version": "ecc39b6193ccbdba1d3b699b86118d4f",
+      "custom_tags": ""
+    },
+    "a1bfd25ca2384b17bf013583e895aba2": {
+      "title": "TSA363G25-250B",
+      "attributes": {
+        "Designator": "SW?",
+        "Symbol": "f88267b445c44945b04abfe8591d949f",
+        "Supplier": "LCSC",
+        "Supplier Part": "C354943",
+        "Manufacturer": "BRIGHT",
+        "Manufacturer Part": "TSA363G25-250B",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "TSA363G25-250B"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "fc2ee8cc43754ed45d92e42532b678eb",
+      "version": "acf8585baa2e38b07c4f92cbbeafc73d",
+      "custom_tags": ""
+    },
+    "b07a23dc1efc45849aa5eafb2492cb3d": {
+      "title": "DHT11",
+      "attributes": {
+        "Designator": "U?",
+        "Symbol": "6a10331d19de4a91a2b65caa303466db",
+        "Manufacturer Part": "",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "DHT11"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "f079a03780bb9817d0184a10322880e9",
+      "version": "a6db893e6a7247ac00a158e620d882c6",
+      "custom_tags": ""
+    },
+    "bbfb4ac68be84f9393f5685d63dca378": {
+      "title": "DRV8701ERGET",
+      "attributes": {
+        "Designator": "U?",
+        "Symbol": "726c61f6d01e4876b767784d2cd0bdb8",
+        "Supplier": "LCSC",
+        "Manufacturer": "TI",
+        "Manufacturer Part": "DRV8701ERGET",
+        "Supplier Part": "C132049",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "DRV8701ERGET"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "d095e22de488cc3d9e02fa155e7aeb63",
+      "version": "b4d2dcadf7e3c8b8323797ec9cf6fea6",
+      "custom_tags": ""
+    },
+    "ca40dc60da934cf0b405bc48860ea8c1": {
+      "title": "1N5819",
+      "attributes": {
+        "Designator": "D?",
+        "Symbol": "a61a1318be214764bf57aaad2eac93f2",
+        "Supplier": "LCSC",
+        "Supplier Part": "C437199",
+        "Manufacturer": "KEXIN",
+        "Manufacturer Part": "1N5819",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "1N5819"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "0609d1635fac27446c8480b8c575fc73",
+      "version": "14dcacfe1722b9b898e10e68dcf28bd0",
+      "custom_tags": ""
+    },
+    "e4b747c8e6274e008d9b483515086785": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Symbol": "a05826114d2f41ff9f4135999587a1d4",
+        "@Page Name": "",
+        "@Create Date": "",
+        "@Page Count": "",
+        "@Page No": "",
+        "@Project Name": "",
+        "@Schematic Name": "",
+        "@Update Date": "",
+        "Company": "嘉立创EDA",
+        "Device": "",
+        "Drawed": "",
+        "Page Size": "A3",
+        "Part Number": "",
+        "Reviewed": "",
+        "Version": "V1.0",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "4b872d674c0b4b0e8ede0a73cf1a0316|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1664282381",
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "e58813694a4e4eeeb6dcdac86b5eb95d": {
+      "title": "A_A4",
+      "attributes": {
+        "Symbol": "c22a12b4cecf465784ca64990bb8a8a0",
+        "@Project Name": "Sheet_1",
+        "REV": "1.0",
+        "Date": "2021-11-28",
+        "Sheet": "1/1",
+        "Draw By": "nhyxx",
+        "Company": "Your Company",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "A_A4"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "ed219438d1828fa614b25c079a9d66fc",
+      "version": "0c320bc17fb992b83861e23dda4c9463",
+      "custom_tags": ""
+    },
+    "e9525ceb7b364dc9a5968218f02fb178": {
+      "title": "TPH1R403NL",
+      "attributes": {
+        "Designator": "Q?",
+        "Symbol": "08389ac9f7c442dc832afd0bce9c4c06",
+        "Supplier": "LCSC",
+        "Manufacturer": "TOSHIBA",
+        "Manufacturer Part": "TPH1R403NL",
+        "Supplier Part": "C83440",
+        "JLCPCB Part Class": "Extend",
+        "JLCPCB SMD": "Yes",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "TPH1R403NL"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "a68b597bab428d8d9d028e8702f9d0f6",
+      "version": "aed5f0be388cdfda69a8781bd74dbcee",
+      "custom_tags": ""
+    },
+    "ea29217f20144e149e17fbee19071e83": {
+      "title": "SS34_C154551",
+      "attributes": {
+        "LCSC Part Name": "3.0 A 肖特基势垒整流器",
+        "Supplier Part": "C154551",
+        "Manufacturer": "onsemi(安森美)",
+        "Manufacturer Part": "SS34",
+        "Supplier Footprint": "SMC(DO-214AB)",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171201/C154551_15121212565951157433.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "1569025bb158494c9e81237b10f26945",
+        "Designator": "D?",
+        "Footprint": "ea76054e0145409ba21eb5e1b3934238",
+        "3D Model": "4f14ab132b494223bc17c7f39616ac35",
+        "3D Model Title": "SMC_L6.9-W5.9-LS7.9-RD",
+        "3D Model Transform": "314.96,236.22,0,0,0,0,0,0,0",
+        "Reverse Voltage (Vr)": "40V",
+        "Average Rectified Current (Io)": "3A",
+        "Forward Voltage (Vf@If)": "500mV@3A",
+        "Name": "={Manufacturer Part}",
+        "Description": "直流反向耐压(Vr):40V;平均整流电流(Io):3A;正向压降(Vf):500mV@3A;"
+      },
+      "description": "直流反向耐压(Vr):40V;平均整流电流(Io):3A;正向压降(Vf):500mV@3A;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20180907/BF5CFFC007AA3CF0DFB1E1B17149B1B7.jpg"
+      ],
+      "source": "74b9585561c142eb894137f333131cdc|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654803865",
+      "custom_tags": "[\"二极管\",\"肖特基二极管\"]"
+    },
+    "f46a2624b8b54c1e91c2e17f5d29a9bf": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "2339c8947f2a460fb0a10510324b67f8"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [
+        ""
+      ],
+      "source": "9a64ac5790a940f7ae40fc736dc6faff|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1635931210",
+      "custom_tags": "[]"
+    },
+    "f942129cf4204b5aaf26de8577077557": {
+      "title": "BZT52C3V3",
+      "attributes": {
+        "Designator": "D?",
+        "Symbol": "7c1f56df02e1492693e76f771a229530",
+        "Supplier": "LCSC",
+        "Supplier Part": "C908185",
+        "Manufacturer": "FUXINSEMI",
+        "Manufacturer Part": "BZT52C3V3",
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Footprint": "",
+        "Name": "BZT52C3V3"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": [],
+      "source": "cebd2a4fb848206145414bad3bc878d9",
+      "version": "c2bce004982e021f0228d7af5a8e7d59",
+      "custom_tags": ""
+    }
+  },
+  "boards": {
+    "Board1": {
+      "schematic": "64e49d0de2e14e36b840de37e9ec72b9",
+      "pcb": "68c1757b7bb84e28837bc46c694da5d3"
+    }
+  },
+  "config": {
+    "title": "插件8701驱动",
+    "cbbProject": false,
+    "defaultSheet": "e4b747c8e6274e008d9b483515086785",
+    "editorVersion": "2.0.21.756861"
+  }
+}

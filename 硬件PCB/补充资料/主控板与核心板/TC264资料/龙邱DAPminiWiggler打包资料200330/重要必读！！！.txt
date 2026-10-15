@@ -1,0 +1,4 @@
+英飞凌TC264、TC364、TC377系列单片机编译环境为AURIX Development Studio(ADS)
+安装及使用说明请到B站搜索龙邱科技观看ADS安装及使用视频
+B站视频链接：
+https://www.bilibili.com/video/BV1ha411A7zW
